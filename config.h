@@ -270,8 +270,8 @@ unsigned int tabspaces = 8;
  * To disable the unfocused bg opacity, set alphaUnfocused=-1. This will
  * cause alpha to be used for both the focused and unfocused bg opacity.
  */
-float alpha = 0.93;
-float alphaUnfocused = 0.6;
+float alpha = 0.86;
+float alphaUnfocused = 0.77;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
