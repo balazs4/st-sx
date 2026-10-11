@@ -277,11 +277,11 @@ float alphaUnfocused = 0.77;
 static const char *colorname[] = {
 	/* 8 normal colors */
 	"black",
-	"red3",
+	"#ff6347",
 	"green3",
-	"yellow3",
-	"blue2",
-	"magenta3",
+	"#FFD700",
+	"#00bfff",
+	"#DA70D6",
 	"cyan3",
 	"gray90",
 
